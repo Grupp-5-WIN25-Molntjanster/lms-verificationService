@@ -1,0 +1,6 @@
+@VerificationService.Web_HostAddress = http://localhost:5174
+
+GET {{VerificationService.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

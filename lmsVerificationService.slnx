@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="VerificationService.Application/VerificationService.Application.csproj" />
+  <Project Path="VerificationService.Domain/VerificationService.Domain.csproj" />
+  <Project Path="VerificationService.Infrastucture/VerificationService.Infrastucture.csproj" />
+  <Project Path="VerificationService.Web/VerificationService.Web.csproj" />
+</Solution>
